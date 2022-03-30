@@ -30,8 +30,9 @@
 * разработать формы обратной связи с помощью технологии form, через которые пользователи смогут отправить комментарий.
 
 ## Автор
-Артемий Кокодеев
-[Github](https://github.com/ArtemiiKokodeev/russian-travel)
+Артемий Кокодеев [Github](https://artemiikokodeev.github.io/russian-travel/)
+
+Проект на [Github Pages](https://artemiikokodeev.github.io/russian-travel/)
 
 ## Благодарности
 Спасибо команде Яндекс.Практикум за прекрасно составленный курс обучения и отличную коммуникацию!
