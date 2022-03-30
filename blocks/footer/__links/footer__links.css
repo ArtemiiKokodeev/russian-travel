@@ -1,0 +1,27 @@
+.footer__links {
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(5, minmax(min-content, max-content));
+  grid-template-rows: 1fr;
+  gap: 18px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  list-style: none;
+}
+
+@media screen and (max-width: 710px) {
+  .footer__links {
+    padding-bottom: 48px;
+  }
+}
+
+@media screen and (max-width: 510px) {
+  .footer__links {
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(5, minmax(min-content, max-content));
+    gap: 32px;
+  }
+}
+
